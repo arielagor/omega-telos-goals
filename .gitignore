@@ -1,0 +1,3 @@
+# PeTTa writes its transpiled Prolog and compiled form next to the source
+*.pl
+*.qlf
